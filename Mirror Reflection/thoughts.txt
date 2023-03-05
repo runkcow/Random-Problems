@@ -1,0 +1,15 @@
+if p = 2, q = 1, then the beam bounces on the wall and reaches receptor 2
+if p = 4, q = 1, then the beam bounces on the left wall once, right wall twice and reaches receptor 2
+if p = 3, q = 2, then the beam loops around and reaches receptor 0
+i believe that the solution of this problem is related to Least Common Multiple
+i think i have found the solution
+the slope of the bounce is q/p 
+in order for the beam to reach a corner, it has to bounce p number of times
+once it bounces p number of times, the beam will reach a corner, depending on p and q, it will hit which corner
+if p is an even number, the beam will hit a corner on the left side, so basically result in 2
+if p is an odd number, the beam will hit a corner on the right side, so basically result in 1 or 0
+in the scenario that p is a odd number, it is dependent on q on if the result is 1 or 0
+if q is an even number, the result is 0
+if q is an odd number, the result is 1
+this idea is somewhat faulty
+

@@ -1,0 +1,15 @@
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.csproj.AssemblyReference.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.AssemblyInfoInputs.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.AssemblyInfo.cs
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\bin\Debug\net6.0\Mirror Reflection.exe
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\bin\Debug\net6.0\Mirror Reflection.deps.json
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\bin\Debug\net6.0\Mirror Reflection.runtimeconfig.json
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\bin\Debug\net6.0\Mirror Reflection.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\bin\Debug\net6.0\Mirror Reflection.pdb
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\refint\Mirror Reflection.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.pdb
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\Mirror Reflection.genruntimeconfig.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Mirror Reflection\obj\Debug\net6.0\ref\Mirror Reflection.dll

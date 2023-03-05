@@ -1,0 +1,15 @@
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.csproj.AssemblyReference.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.AssemblyInfoInputs.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.AssemblyInfo.cs
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\bin\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.exe
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\bin\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.deps.json
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\bin\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.runtimeconfig.json
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\bin\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\bin\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.pdb
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\refint\Lowest Common Ancestor of a Binary Tree.dll
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.pdb
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\Lowest Common Ancestor of a Binary Tree.genruntimeconfig.cache
+C:\Users\Racco\Documents\Visual Studio Code Projects\Random Problems\Lowest Common Ancestor of a Binary Tree\obj\Debug\net6.0\ref\Lowest Common Ancestor of a Binary Tree.dll
