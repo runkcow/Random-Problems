@@ -11,7 +11,6 @@ namespace MirrorReflection
         
         public static int MirrorReflection (int p, int q) 
         {
-
             int l = lcm(p,q);
             if (isEven(l / q))
             {
@@ -28,7 +27,6 @@ namespace MirrorReflection
                     return 1;
                 }
             }
-
         }
 
         // isEven private method, will be useful

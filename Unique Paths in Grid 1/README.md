@@ -1,4 +1,4 @@
-ORIGIN OF THIS PROBLEM IS FROM BITBURNER
+ORIGIN: BITBURNER
 
 Unique Paths in a Grid I
 You are attempting to solve a Coding Contract. You have 10 tries remaining, after which the contract will self-destruct.
